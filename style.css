@@ -1,0 +1,19 @@
+#yt-shorts-autoscroll-btn, .yt-shorts-autoscroll-btn {
+  position: fixed;
+  bottom: 32px;
+  right: 32px;
+  background: #ff0000;
+  color: #fff;
+  border: none;
+  border-radius: 24px;
+  padding: 14px 28px;
+  font-size: 16px;
+  font-weight: bold;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  cursor: pointer;
+  transition: background 0.2s;
+  font-family: inherit;
+}
+#yt-shorts-autoscroll-btn:hover, .yt-shorts-autoscroll-btn:hover {
+  background: #cc0000;
+} 
